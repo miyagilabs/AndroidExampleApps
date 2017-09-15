@@ -1,3 +1,7 @@
-include ':AddressBook', ':Welcome'
+include ':AddressBook', ':CannonGame', ':Doodlz', ':EnhancedAddressBook', ':EnhancedSlideshow', ':Welcome'
 project(':AddressBook').projectDir = new File('AddressBook/app')
+project(':CannonGame').projectDir = new File('CannonGame/app')
+project(':Doodlz').projectDir = new File('Doodlz/app')
+project(':EnhancedAddressBook').projectDir = new File('EnhancedAddressBook/app')
+project(':EnhancedSlideshow').projectDir = new File('EnhancedSlideshow/app')
 project(':Welcome').projectDir = new File('Welcome/app')
