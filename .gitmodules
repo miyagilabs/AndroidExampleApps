@@ -1,3 +1,8 @@
 [submodule "Welcome"]
 	path = Welcome
 	url = https://github.com/miyagilabs/Welcome.git
+	branch = master
+[submodule "AddressBook"]
+    path = AddressBook
+	url = https://github.com/miyagilabs/AddressBook.git
+	branch = master
