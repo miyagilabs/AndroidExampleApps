@@ -1,0 +1,3 @@
+include ':AddressBook', ':Welcome'
+project(':AddressBook').projectDir = new File('AddressBook/app')
+project(':Welcome').projectDir = new File('Welcome/app')
