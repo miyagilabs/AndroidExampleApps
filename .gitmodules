@@ -6,3 +6,19 @@
     path = AddressBook
 	url = https://github.com/miyagilabs/AddressBook.git
 	branch = master
+[submodule "CannonGame"]
+	path = CannonGame
+	url = https://github.com/miyagilabs/CannonGame.git
+	branch = master
+[submodule "Doodlz"]
+	path = Doodlz
+	url = https://github.com/miyagilabs/Doodlz.git
+	branch = master
+[submodule "EnhancedAddressBook"]
+	path = EnhancedAddressBook
+	url = https://github.com/miyagilabs/EnhancedAddressBook.git
+	branch = master
+[submodule "EnhancedSlideshow"]
+	path = EnhancedSlideshow
+	url = https://github.com/miyagilabs/EnhancedSlideshow.git
+	branch = master
