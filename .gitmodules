@@ -22,3 +22,39 @@
 	path = Welcome
 	url = https://github.com/miyagilabs/Welcome.git
 	branch = master
+[submodule "FavoriteTwitterSearches"]
+	path = FavoriteTwitterSearches
+	url = https://github.com/miyagilabs/FavoriteTwitterSearches.git
+	branch = master
+[submodule "FlagQuizGame"]
+	path = FlagQuizGame
+	url = https://github.com/miyagilabs/FlagQuizGame.git
+	branch = master
+[submodule "Pizza"]
+	path = Pizza
+	url = https://github.com/miyagilabs/Pizza.git
+	branch = master
+[submodule "RouteTracker"]
+	path = RouteTracker
+	url = https://github.com/miyagilabs/RouteTracker.git
+	branch = master
+[submodule "Slideshow"]
+	path = Slideshow
+	url = https://github.com/miyagilabs/Slideshow.git
+	branch = master
+[submodule "SpotOn"]
+	path = SpotOn
+	url = https://github.com/miyagilabs/SpotOn.git
+	branch = master
+[submodule "TipCalculator"]
+	path = TipCalculator
+	url = https://github.com/miyagilabs/TipCalculator.git
+	branch = master
+[submodule "VoiceRecorder"]
+	path = VoiceRecorder
+	url = https://github.com/miyagilabs/VoiceRecorder.git
+	branch = master
+[submodule "WeatherViewer"]
+	path = WeatherViewer
+	url = https://github.com/miyagilabs/WeatherViewer.git
+	branch = master
