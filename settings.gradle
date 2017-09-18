@@ -1,8 +1,11 @@
-include ':AddressBook', ':CannonGame', ':Doodlz', ':EnhancedAddressBook', ':EnhancedSlideshow', ':Welcome'
+include ':AddressBook', ':CannonGame', ':Doodlz', ':EnhancedAddressBook', ':EnhancedSlideshow',
+     ':FavoriteTwitterSearches', ':FlagQuizGame', ':Pizza', ':RouteTracker', ':Slideshow',
+     ':SpotOn', ':TipCalculator', ':VoiceRecorder', ':WeatherViewer', ':Welcome'
 project(':AddressBook').projectDir = new File('AddressBook/app')
 project(':CannonGame').projectDir = new File('CannonGame/app')
 project(':Doodlz').projectDir = new File('Doodlz/app')
 project(':EnhancedAddressBook').projectDir = new File('EnhancedAddressBook/app')
+project(':EnhancedSlideshow').projectDir = new File('EnhancedSlideshow/app')
 project(':FavoriteTwitterSearches').projectDir = new File('FavoriteTwitterSearches/app')
 project(':FlagQuizGame').projectDir = new File('FlagQuizGame/app')
 project(':Pizza').projectDir = new File('Pizza/app')
